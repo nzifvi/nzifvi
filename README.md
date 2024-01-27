@@ -8,4 +8,4 @@ Learning:
 
 -> Circuitry/Electronics.
 
- -> Physics (independently).
+  -> Physics (independently).
