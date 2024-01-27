@@ -1,7 +1,3 @@
-hello
-
-py student
-
-methods of communique:
-discord: nzifvi#6563
-email: leifdeben@gmail.com
+university of sussex student
+-> c++/c
+-> HTML/CSS
