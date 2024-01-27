@@ -1,5 +1,11 @@
-student
+Student.
 
--> c++/c
+-> c++/c.
 
--> HTML/CSS
+-> HTML/CSS.
+
+Learning:
+
+-> Circuitry/Electronics.
+
+ -> Physics (independently).
