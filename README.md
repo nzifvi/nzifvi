@@ -7,5 +7,5 @@ Student.
 Learning:
 
 -> Circuitry/Electronics.
-
+|
   -> Physics (independently).
