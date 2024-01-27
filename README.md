@@ -1,4 +1,4 @@
-university of sussex student
+student
 
 -> c++/c
 
