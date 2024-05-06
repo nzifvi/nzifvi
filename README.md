@@ -1,3 +1,1 @@
-CompSci Student
 
-Aus Deutschland : )
