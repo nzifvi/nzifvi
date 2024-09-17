@@ -10,6 +10,8 @@ Languages being learned:
 
 Skills:
 - Analouge/Digital Circuit Construction and Analysis.
-
+- 2D/3D modelling with AutoCAD.
+- Systems/Controls design with MATLAB.
+- RF Signal/Freq Analysis with MATLAB.
   
 
