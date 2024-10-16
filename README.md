@@ -3,6 +3,7 @@ University of Sussex Student.
 Known languages:
 - ASM x86 and x64.
 - C/C++.
+- Java (Sadly).
 
 Languages being learned:
 - Java.
