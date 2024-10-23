@@ -6,6 +6,10 @@
   <body>
     <header>
       <h1 class="container-fluid">Welcome to my Profile!</h1>
+      <div>
+        <h2 class="container">nzifvi</h2>
+        <h2 class="container">university of sussex</h2>
+      </div>
     </header>
   </body>
 </html>
