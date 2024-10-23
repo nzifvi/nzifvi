@@ -6,7 +6,7 @@
   </head>
   <body>
     <header>
-      <h1>Welcome to my Profile!</h1>
+      <h1 class="container-fluid">Welcome to my Profile!</h1>
     </header>
   </body>
 </html>
