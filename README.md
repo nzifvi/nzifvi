@@ -12,6 +12,9 @@
       <ul>
         <li>C/C++</li></li>
         <li>Java</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
       </ul>
     </section>
   </body>
