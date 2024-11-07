@@ -5,10 +5,14 @@
   </head>
   <body>
     <header>
-      <h1 class="container-fluid">Welcome to my Profile!</h1>
-      <div class="row">
-        <h2 class="container col">nzifvi</h2>
-      </div>
+      <h1>nzifvi</h1>
     </header>
+    <section>
+      <h2>Known languages</h2>
+      <ul>
+        <li>C/C++</li></li>
+        <li>Java</li>
+      </ul>
+    </section>
   </body>
 </html>
