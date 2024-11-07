@@ -21,6 +21,12 @@
         <li>OpenGL, C++</li>
         <li>math.h, C/C++</li>
       </ul>
+      <h2>Skills/Hobbies</h2>
+      <ul>
+        <li>Arduino Programming</li>
+        <li>Digital & Analogue Circuit Design/Analysis</li>
+        <li></li>
+      </ul>
     </section>
   </body>
 </html>
