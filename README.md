@@ -6,7 +6,6 @@
   <body>
     <header>
       <h1>nzifvi</h1>
-      <hr>
       <h2>Student</h2>
     </header>
     <section>
