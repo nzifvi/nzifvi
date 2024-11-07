@@ -8,7 +8,6 @@
       <h1 class="container-fluid">Welcome to my Profile!</h1>
       <div class="row">
         <h2 class="container col">nzifvi</h2>
-        <h2 class="container col">university of sussex</h2>
       </div>
     </header>
   </body>
