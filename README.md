@@ -16,6 +16,11 @@
         <li>HTML</li>
         <li>CSS</li>
       </ul>
+      <h2>Known Libraries</h2>
+      <ul>
+        <li>OpenGL, C++</li>
+        <li>math.h, C/C++</li>
+      </ul>
     </section>
   </body>
 </html>
