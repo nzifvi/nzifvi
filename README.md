@@ -32,6 +32,7 @@
         <ul>
           <li>Manim Math animation library for Python</li>
         </ul>
+        <li>Assembly x86/x64 (already studied/practiced a bit)</li>
       </ul>
     </section>
   </body>
