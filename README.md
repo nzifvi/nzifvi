@@ -25,7 +25,13 @@
       <ul>
         <li>Arduino Programming</li>
         <li>Digital & Analogue Circuit Design/Analysis</li>
-        <li></li>
+      </ul>
+      <h2>Considering Learning...</h2>
+      <ul>
+        <li>Python</li>
+        <ul>
+          <li>Manim Math animation library for Python</li>
+        </ul>
       </ul>
     </section>
   </body>
