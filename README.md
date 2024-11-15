@@ -32,9 +32,9 @@
         <li>Python</li>
         <ul>
           <li>Manim Math animation library for Python</li>
+          <li>Matplotlib</li>
         </ul>
         <li>Assembly x86/x64 (already studied/practiced a bit)</li>
-        <li>Matplotlib</li>
       </ul>
     </section>
   </body>
