@@ -27,13 +27,14 @@
         <li>Arduino Programming</li>
         <li>Digital & Analogue Circuit Design/Analysis</li>
       </ul>
-      <h2>Considering Learning...</h2>
+      <h2>Learning</h2>
       <ul>
         <li>Python</li>
         <ul>
           <li>Manim Math animation library for Python</li>
         </ul>
         <li>Assembly x86/x64 (already studied/practiced a bit)</li>
+        <li>Matplotlib</li>
       </ul>
     </section>
   </body>
