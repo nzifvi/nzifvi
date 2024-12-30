@@ -21,6 +21,7 @@
       <ul>
         <li>OpenGL, C++</li>
         <li>math.h, C/C++</li>
+        <li>SFML, C++</li>
       </ul>
       <h2>Skills/Hobbies</h2>
       <ul>
